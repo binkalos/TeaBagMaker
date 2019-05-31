@@ -1,6 +1,6 @@
 ﻿namespace TeaBagMaker
 {
-    partial class Form1
+    partial class TeaBagMaker
     {
         /// <summary>
         /// 필수 디자이너 변수입니다.
@@ -63,7 +63,7 @@
             this.label1.Text = "2019.05.31,3112이규빈";
             this.label1.Click += new System.EventHandler(this.Label1_Click);
             // 
-            // Form1
+            // TeaBagMaker
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -71,8 +71,8 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.tea);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "TeaBagMaker";
+            this.Text = "TeaBagMaker";
             this.ResumeLayout(false);
             this.PerformLayout();
 
