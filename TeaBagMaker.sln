@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28917.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeaBagMaker", "TeaBagMaker\TeaBagMaker.csproj", "{3A35DDF2-CA92-4556-BDFB-25C11F18868F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A35DDF2-CA92-4556-BDFB-25C11F18868F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A35DDF2-CA92-4556-BDFB-25C11F18868F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A35DDF2-CA92-4556-BDFB-25C11F18868F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A35DDF2-CA92-4556-BDFB-25C11F18868F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D123ADE4-5015-4D3E-9403-7A26734C1236}
+	EndGlobalSection
+EndGlobal
